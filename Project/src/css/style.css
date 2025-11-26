@@ -120,7 +120,7 @@ html {
 	font-size: 60px;
 	line-height: normal;
 	text-transform: uppercase;
-	color: var(--light-color, #F5F5F7);
+	color: red;
 
 	@media screen and (max-width: 768px) {
 		font-size: 48px;
